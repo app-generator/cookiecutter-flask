@@ -1,4 +1,9 @@
 
+## [0.0.3] 2021-11-22
+### Improvements 
+
+- New Theme: [Star Admin 2](https://appseed.us/admin-dashboards/flask-star-admin)
+
 ## [0.0.2] 2021-11-20
 ### Improvements
 
