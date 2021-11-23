@@ -8,13 +8,16 @@
 - UI Kit: **Volt Dashboard** (Lite Version) Bootstrap 5 design provided by **Themesberg**
 {% endif %}
 {% if cookiecutter.theme == 'soft-ui' %}
-- UI Kit: **Soft UI Dashboard** (Free Version) Bootstrap 5 design provided by **Creative-Tim**
+- UI Kit: **Soft UI Dashboard** (Free Version) Bootstrap 5 design provided by **[Creative-Tim](https://bit.ly/3fKQZaL)**
 {% endif %}
 {% if cookiecutter.theme == 'datta-able' %}
-- UI Kit: **Datta Able** (Free Version) design provided by **Themesberg**
+- UI Kit: **Datta Able** (Free Version) design provided by **[CodedThemes](https://bit.ly/37fF9RT)**
 {% endif %} 
 {% if cookiecutter.theme == 'material-dashboard' %}
-- UI Kit: **Material Dashboard** (Free Version) Bootstrap 5 design provided by **Creative-Tim**
+- UI Kit: **Material Dashboard** (Free Version) Bootstrap 5 design provided by **[Creative-Tim](https://bit.ly/3fKQZaL)**
+{% endif %}
+{% if cookiecutter.theme == 'star-admin' %}
+- UI Kit: **Star Admin 2** (Free Version) by **[BootstrapDash](https://bit.ly/2UTgih5)**
 {% endif %}
 
 - Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
@@ -45,6 +48,10 @@
 {% if cookiecutter.theme == 'material-dashboard' %}
 - [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - product page
 - [Flask Dashboard Material](https://flask-material-dashboard.appseed-srv1.com/) - LIVE deployment
+{% endif %} 
+{% if cookiecutter.theme == 'star-admin' %}
+- [Star Admin Flask](https://appseed.us/admin-dashboards/flask-star-admin) - product page
+- [Star Admin Flask](https://flask-star-admin.appseed-srv1.com/) - LIVE deployment
 {% endif %} 
 
 <br />
@@ -78,6 +85,9 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 {% endif %} 
 {% if cookiecutter.theme == 'material-dashboard' %}
 ![Flask Dashboard Material Design - Template project provided by AppSeed.](https://user-images.githubusercontent.com/51070104/138474101-7a46215e-daa8-489d-b811-19eb1c3ce4da.gif)
+{% endif %} 
+{% if cookiecutter.theme == 'star-admin' %}
+![Flask Star Admin - Seed provided by AppSeed.](https://user-images.githubusercontent.com/51070104/142849749-130c06e2-9ebc-4c48-84c7-d35fe1ae26b3.gif)
 {% endif %} 
 
 <br />
