@@ -14,6 +14,10 @@
 
 <br />
 
+![Cookie-Cutter Flask - open-source generator provided by AppSeed.](https://user-images.githubusercontent.com/51070104/143268488-323b8bf6-298c-4fc6-b81e-d5cdced1a1db.jpg)
+
+<br />
+
 > Project Customization:
 
 - Project information: `name`, `author`, `email`
@@ -32,10 +36,6 @@
 - [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index provided by AppSeed
 - [Open-Source Dashboards](https://appseed.us/admin-dashboards/open-source) - crafted in **Flask**, **Django**, [React](https://appseed.us/apps/react)
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-<br />
-
-![Flask Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt/master/media/flask-dashboard-volt-intro.gif)
 
 <br />
 
